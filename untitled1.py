@@ -180,11 +180,11 @@ def saisieDonnees():
         
 cal="_"
 age=50
-#reconnaissance_de_caracteres(cal)
-#impots(age)
-#reprographie()
-#calcul_de_frais_portuaires()
-#print(calcul_frais_mensuel_vehicule())
-#print(election())
-#print(saisieDonnees())
+reconnaissance_de_caracteres(cal)
+impots(age)
+reprographie()
+calcul_de_frais_portuaires()
+print(calcul_frais_mensuel_vehicule())
+print(election())
+print(saisieDonnees())
     
